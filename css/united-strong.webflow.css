@@ -2281,6 +2281,7 @@ figcaption {
 }
 
 .text-weight-semibold {
+  font-size: 1.3rem;
   font-weight: 600;
 }
 
@@ -3554,6 +3555,10 @@ figcaption {
 
   .testimonial13_content-4 {
     overflow: hidden;
+  }
+
+  .text-weight-semibold {
+    font-size: 1.3rem;
   }
 
   .div-block {
