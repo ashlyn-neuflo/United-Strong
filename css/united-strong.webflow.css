@@ -2324,6 +2324,11 @@ figcaption {
   text-decoration: none;
 }
 
+.image-3 {
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
 @media screen and (max-width: 991px) {
   h1 {
     font-size: 3.25rem;
